@@ -12,10 +12,8 @@
     <form action="">
         <label for="">Nome:</label>
         <input type="text" value="">
+        <button type="submit">Salvar</button>
     </form>
     
-    <?php
-        echo "olá, mundo";
-    ?>
 </body>
 </html>
