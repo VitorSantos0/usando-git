@@ -9,10 +9,10 @@
 <body>
     <h1>Aprendendo GIT</h1>
 
-    <form action="">
+    <form action="resposta.php" method="post">
         <label for="">Nome:</label>
-        <input type="text" value="">
-        <button type="submit">Salvar</button>
+        <input type="text" name="nome">
+        <button type="submit">Enviar</button>
     </form>
     
 </body>
