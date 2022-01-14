@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(90, 133, 97);
+}
+
+h1 {
+    color: #fff;
+    font-family: sans-serif;
+}
+
+label {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+button {
+    background-color: #6fe973;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+  }
