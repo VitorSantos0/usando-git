@@ -7,6 +7,7 @@
     <title>GIT</title>
 </head>
 <body>
+    <h1>Aprendendo GIT</h1>
     <?php
         echo "olá, mundo";
     ?>
