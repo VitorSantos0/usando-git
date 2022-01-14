@@ -8,6 +8,11 @@
 </head>
 <body>
     <h1>Aprendendo GIT</h1>
+
+    <form action="">
+        <label for=""><input type="text"><a href=""></a></input></label>
+    </form>
+    
     <?php
         echo "olá, mundo";
     ?>
