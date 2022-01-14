@@ -12,6 +12,8 @@
     <form action="resposta.php" method="post">
         <label for="">Nome:</label>
         <input type="text" name="nome">
+        <label for="">Sobrenome</label>
+        <input type="text" name="sobrenome">
         <button type="submit">Enviar</button>
     </form>
     

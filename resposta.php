@@ -1,3 +1,3 @@
 <?php
 
-echo "Nome: ".$_POST['nome'];
+echo "Nome Completo: ".$_POST['nome'] . ' ' . $_POST['sobrenome'];
