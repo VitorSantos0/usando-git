@@ -10,7 +10,8 @@
     <h1>Aprendendo GIT</h1>
 
     <form action="">
-        <label for=""><input type="text"><a href=""></a></input></label>
+        <label for="">Nome:</label>
+        <input type="text" value="">
     </form>
     
     <?php
